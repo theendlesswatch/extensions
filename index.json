@@ -8807,12 +8807,12 @@
       "name": "Comix",
       "packageName": "eu.kanade.tachiyomi.extension.en.comix",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.29.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.30.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comix.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 29,
-      "versionName": "1.4.29",
+      "versionCode": 30,
+      "versionName": "1.4.30",
       "sources": [
         {
           "id": "7537715367149829912",
@@ -25540,21 +25540,21 @@
           "id": "5583626852311652499",
           "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
           "language": "ko",
-          "homeUrl": "https://wfwf464.com",
+          "homeUrl": "https://wfwf466.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "7074060458114951398",
           "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
           "language": "ko",
-          "homeUrl": "https://wfwf464.com",
+          "homeUrl": "https://wfwf466.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "4225505094399546613",
           "name": "\ub291\ub300\ub2f7\ucef4 - \ud3ec\ud1a0\ud230",
           "language": "ko",
-          "homeUrl": "https://wfwf464.com",
+          "homeUrl": "https://wfwf466.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]

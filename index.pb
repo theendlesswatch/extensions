@@ -624,7 +624,7 @@ lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Comics Land+eu.kanade.tachiyomi.extension.en.comicslandí
 nhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.comicsland-v1.4.32.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comicsland.png"1.4( 21.4.32:5¥±Ãú±Èƒ´ Comics Landen"https://comicsland.org0*Ï
 Comix&eu.kanade.tachiyomi.extension.en.comixã
-ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.29.apkvhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comix.png"1.4(21.4.29:)˜þßç‰†ÖÍhComixen"https://comix.to0*è
+ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.30.apkvhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comix.png"1.4(21.4.30:)˜þßç‰†ÖÍhComixen"https://comix.to0*è
 
 Crow Scans*eu.kanade.tachiyomi.extension.en.crowscansë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.crowscans-v1.4.32.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.crowscans.png"1.4( 21.4.32:1ôà‰µÉ“ŸÞ
@@ -2581,7 +2581,7 @@ ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 Toonkor(eu.kanade.tachiyomi.extension.ko.toonkoræ
 jhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.toonkor-v1.4.6.apkxhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.toonkor.png"1.4(21.4.6:.¤‘•®œÜÝÅ[Toonkorko"https://tkor114.com0*ô
 Wolf.com+eu.kanade.tachiyomi.extension.ko.wolfdotcomì
-mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.wolfdotcom.png"1.4(21.4.3:<“±ù’ŸáÁ¾MëŠ‘ëŒ€ë‹·ì»´ - ì›¹íˆ°ko"https://wfwf464.com0:?æÑÐ¬›‡–bëŠ‘ëŒ€ë‹·ì»´ - ë§Œí™”ì±…ko"https://wfwf464.com0:?õ©§¢îÏ€Ò:ëŠ‘ëŒ€ë‹·ì»´ - í¬í† íˆ°ko"https://wfwf464.com0*å
+mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apk{https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.wolfdotcom.png"1.4(21.4.3:<“±ù’ŸáÁ¾MëŠ‘ëŒ€ë‹·ì»´ - ì›¹íˆ°ko"https://wfwf466.com0:?æÑÐ¬›‡–bëŠ‘ëŒ€ë‹·ì»´ - ë§Œí™”ì±…ko"https://wfwf466.com0:?õ©§¢îÏ€Ò:ëŠ‘ëŒ€ë‹·ì»´ - í¬í† íˆ°ko"https://wfwf466.com0*å
 	MangaHoNa*eu.kanade.tachiyomi.extension.pl.mangahonaë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pl.mangahona-v1.4.51.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pl.mangahona.png"1.4(321.4.51:/ÄƒÕ«£¢Ìé{	MangaHoNapl"https://mangahona.pl*Ù
 Amuy%eu.kanade.tachiyomi.extension.pt.amuyá
