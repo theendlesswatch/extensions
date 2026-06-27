@@ -5674,7 +5674,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7735850806536169816",

@@ -435,7 +435,7 @@ lhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.projectsuki-v1.4.8.apk}https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.projectsuki.png"1.4(21.4.88B7âÁòêîÕ¶|Project Sukiall"https://projectsuki.com/
 ¨
 QToon'eu.kanade.tachiyomi.extension.all.qtoonä
-ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.qtoon-v1.4.1.apkwhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.qtoon.png"1.4(21.4.18B(ØÒ‡ø§êĞ­kQToonen"https://qtoon.comB(ö‡ñ“¤€Ü¿&QToones"https://qtoon.comB+Õ¼‰ÀùïÜ¨[QToonpt-BR"https://qtoon.com
+ihttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.qtoon-v1.4.1.apkwhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.qtoon.png"1.4(21.4.18B(ØÒ‡ø§êĞ­kQToonen"https://qtoon.comB(ö‡ñ“¤€Ü¿&QToones"https://qtoon.comB+Õ¼‰ÀùïÜ¨[QToonpt-BR"https://qtoon.com
 ñ
 
 RokuHentai,eu.kanade.tachiyomi.extension.all.rokuhentaiî
