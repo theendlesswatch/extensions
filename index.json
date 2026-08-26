@@ -5974,38 +5974,6 @@
         ]
       },
       {
-        "name": "QToon",
-        "packageName": "eu.kanade.tachiyomi.extension.all.qtoon",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.qtoon-v1.4.1.apk",
-          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.qtoon.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "7735850806536169816",
-            "name": "QToon",
-            "language": "en",
-            "homeUrl": "https://qtoon.com"
-          },
-          {
-            "id": "2774059050491200502",
-            "name": "QToon",
-            "language": "es",
-            "homeUrl": "https://qtoon.com"
-          },
-          {
-            "id": "6580167522413338197",
-            "name": "QToon",
-            "language": "pt-BR",
-            "homeUrl": "https://qtoon.com"
-          }
-        ]
-      },
-      {
         "name": "RokuHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.rokuhentai",
         "resources": {
@@ -6386,32 +6354,6 @@
             "name": "The Library of Ohara",
             "language": "fr",
             "homeUrl": "https://thelibraryofohara.com"
-          }
-        ]
-      },
-      {
-        "name": "Thunder Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.all.thunderscans",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.thunderscans-v1.4.45.apk",
-          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.thunderscans.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "45",
-        "versionName": "1.4.45",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "3209001028102012989",
-            "name": "Lava Scans",
-            "language": "ar",
-            "homeUrl": "https://lavascans.com"
-          },
-          {
-            "id": "2848420679472350044",
-            "name": "Thunder Scans",
-            "language": "en",
-            "homeUrl": "https://en-thunderscans.com"
           }
         ]
       },
@@ -32474,26 +32416,6 @@
         ]
       },
       {
-        "name": "ManhuaRock",
-        "packageName": "eu.kanade.tachiyomi.extension.vi.manhuarock",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.manhuarock-v1.4.18.apk",
-          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.manhuarock.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "18",
-        "versionName": "1.4.18",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5818973680777851987",
-            "name": "ManhuaRock",
-            "language": "vi",
-            "homeUrl": "https://manhuarock4.site"
-          }
-        ]
-      },
-      {
         "name": "MeDamTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.medamtruyen",
         "resources": {
@@ -33308,26 +33230,6 @@
         ]
       },
       {
-        "name": "TruyenTranh3Q",
-        "packageName": "eu.kanade.tachiyomi.extension.vi.truyentranh3q",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.truyentranh3q-v1.4.9.apk",
-          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyentranh3q.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "9",
-        "versionName": "1.4.9",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "8738237169240254245",
-            "name": "TruyenTranh3Q",
-            "language": "vi",
-            "homeUrl": "https://manhua3q.com"
-          }
-        ]
-      },
-      {
         "name": "Truyen tranh dam my",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyentranhdammy",
         "resources": {
@@ -33538,26 +33440,6 @@
             "name": "ViTruyen",
             "language": "vi",
             "homeUrl": "https://vitruyen1.com"
-          }
-        ]
-      },
-      {
-        "name": "VlogTruyen",
-        "packageName": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-vi.vlogtruyen-v1.4.29.apk",
-          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vlogtruyen.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "29",
-        "versionName": "1.4.29",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "6425642624422299254",
-            "name": "VlogTruyen",
-            "language": "vi",
-            "homeUrl": "https://vlogtruyen69.com"
           }
         ]
       },
